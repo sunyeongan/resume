@@ -62,7 +62,7 @@ Hi! I'm SeonYeong An. My interests are communication, artificial intelligence, a
     - ### [Customer Satisfaction Prediction](https://github.com/sunyeongan/ML/tree/master/DT/Customer_Satisfaction)
     - ### [Typhoon Path Prediction (On-going)](https://github.com/sunyeongan/2022_SwCapstoneDesign_GNN)
 
-## 🎖 Contribution 🎖
+## 🎖 OpenSource Contribution 🎖
 
 ### Euphony 
 1) Sample App Proposal 
