@@ -39,11 +39,18 @@ Hi! I'm SeonYeong An. My interests are communication, artificial intelligence, a
 - ## App
   - ### [Amata (On-going)](https://github.com/sunyeongan/Amata)
     > This is a location-based to-do list.
+    > 
+    ![image](https://user-images.githubusercontent.com/44018024/179661499-c16cc5c5-54e4-497b-ba34-617d16d49b96.png)
   - ### [COOKKUUG](https://github.com/2022-SwUnivHackaton-COOKKUG/cookkug)
+    [Youtube Link](https://www.youtube.com/watch?v=a9uKvke8tb0)
     > 'What do you eat?' Stop worrying now! You can see a recipe composed of simple ingredients in about 30 minutes for jachisaeng. And social media where  you take pictures of your dishes
+    
+    ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/44018024/197398955-aa00c6dd-6d4d-4751-be8e-db80a059d996.gif)
  - ## Web
    - ### [Chuncheon_Jade_Project](https://github.com/sunyeongan/Chuncheon_Jade_Project)
       > Chuncheon tourism website leaving for jade. Front Development: Bootstrap, Backend development: JSP
+      
+      ![ezgif com-gif-maker](https://user-images.githubusercontent.com/44018024/170643641-46bd082c-2aac-4114-81b5-c77869c8f682.gif)
  - ## System Programming 
     - ### [Mafia Chatting Game](https://github.com/sunyeongan/Univ_lecture/tree/master/SystemProg_2021/Project)
       > Mafia chat game using socket communication.
