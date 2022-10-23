@@ -45,7 +45,7 @@ Hi! I'm SeonYeong An. My interests are communication, artificial intelligence, a
     [Youtube Link](https://www.youtube.com/watch?v=a9uKvke8tb0)
     > 'What do you eat?' Stop worrying now! You can see a recipe composed of simple ingredients in about 30 minutes for jachisaeng. And social media where  you take pictures of your dishes
     
-    ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/44018024/197399796-289a938f-6502-4151-a8d1-f2c551031ca9.gif)
+    ![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/44018024/197400032-e5536c39-4c8b-400f-920f-05f02e28a8e9.gif)
  - ## Web
    - ### [Chuncheon_Jade_Project](https://github.com/sunyeongan/Chuncheon_Jade_Project)
       > Chuncheon tourism website leaving for jade. Front Development: Bootstrap, Backend development: JSP
