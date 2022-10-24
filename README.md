@@ -43,7 +43,7 @@ Hi! I'm SeonYeong An. My interests are communication, artificial intelligence, a
     ![image](https://user-images.githubusercontent.com/44018024/179661499-c16cc5c5-54e4-497b-ba34-617d16d49b96.png)
   - ### [COOKKUUG](https://github.com/2022-SwUnivHackaton-COOKKUG/cookkug)
     [Youtube Link](https://www.youtube.com/watch?v=a9uKvke8tb0)
-    > 'What do you eat?' Stop worrying now! You can see a recipe composed of simple ingredients in about 30 minutes for jachisaeng. And social media where  you take pictures of your dishes
+    > 'What do you eat?' Stop worrying now! You can see a recipe composed of simple ingredients in about 30 minutes for a student living alone. And social media where  you take pictures of your dishes
     
     ![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/44018024/197400032-e5536c39-4c8b-400f-920f-05f02e28a8e9.gif)
  - ## Web
