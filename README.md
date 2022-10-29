@@ -115,6 +115,13 @@ by zuul commnuity.
 ## 🏆Awards & Activities🏆
 ### 2017 
 - [메이커스카우트 2017 대상 (YUM)](https://github.com/sunyeongan/MakerScout2017)
+- 제 1회 이천양정여고 메이커톤 총괄 기획 
+  
+  <img width="501" alt="캡처333" src="https://user-images.githubusercontent.com/44018024/198834781-d2ebaaf5-fb98-4156-a199-cc61319bd147.PNG">
+
+
+
+
 ### 2018 
 - 김해청년창업페스티벌 대상 (알바토스) 
 - 통일비즈니스해커톤 대상 (쉐어잇)
