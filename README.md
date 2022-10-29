@@ -112,4 +112,17 @@ Hi! I'm SeonYeong An. My interests are communication, artificial intelligence, a
 and also add another IRC chat with Matrix introduces
 by zuul commnuity.
   - https://review.opendev.org/c/openstack/contributor-guide/+/842849
-
+## 🏆Awards & Activities🏆
+### 2017 
+- [메이커스카우트 2017 대상 (YUM)](https://github.com/sunyeongan/MakerScout2017)
+### 2018 
+- 김해청년창업페스티벌 대상 (알바토스) 
+- 통일비즈니스해커톤 대상 (쉐어잇)
+### 2019 
+- 강원스마트시티 아이디어 해커톤 우수상 (강스코) 
+### 2020
+- 한림대학교 창업동아리 최종 경진대회 은상 (코북이) 
+### 2022 
+- 2022 오픈소스 컨트리뷰션 아카데미  춘천 스프린트 OpenStack 멘티 
+- 2022 오픈소스 컨트리뷰션 아카데미 Euphony팀 Challenges 과정 수료
+- 2022 오픈소스 컨트리뷰션 아카데미 Euphony팀 Masters 과정 수료 
