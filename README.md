@@ -133,3 +133,4 @@ by zuul commnuity.
 - 2022 오픈소스 컨트리뷰션 아카데미  춘천 스프린트 OpenStack 멘티 
 - 2022 오픈소스 컨트리뷰션 아카데미 Euphony팀 Challenges 과정 수료
 - 2022 오픈소스 컨트리뷰션 아카데미 Euphony팀 Masters 과정 수료 
+- 2022 오픈소스 컨트리뷰션 아카데미 Euphony팀 최종수상 장려상 (정보통신산업진흥원장상)
